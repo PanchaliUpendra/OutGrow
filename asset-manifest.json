@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/OutGrow/static/css/main.7d7a2da6.css",
+    "main.js": "/OutGrow/static/js/main.4a0a70e2.js",
+    "static/js/787.6442c38c.chunk.js": "/OutGrow/static/js/787.6442c38c.chunk.js",
+    "static/media/per4.png": "/OutGrow/static/media/per4.7996453a873b63ab50a5.png",
+    "static/media/per1.png": "/OutGrow/static/media/per1.dbaa43ca32a5db339904.png",
+    "static/media/per3.png": "/OutGrow/static/media/per3.7220732d5d8a5e5c4e07.png",
+    "static/media/per2.png": "/OutGrow/static/media/per2.c8210d0d02ec8e4b53c9.png",
+    "static/media/img1.png": "/OutGrow/static/media/img1.f70f0114e5f818d86743.png",
+    "static/media/img3.png": "/OutGrow/static/media/img3.312b686d6bae1106741d.png",
+    "static/media/twitter.png": "/OutGrow/static/media/twitter.29de686e47e8d9a0c561.png",
+    "static/media/arrow.png": "/OutGrow/static/media/arrow.255b06575ec0aa1333ad.png",
+    "static/media/img2.png": "/OutGrow/static/media/img2.3d1805e3d7c3b326c9a6.png",
+    "static/media/rightbtn.png": "/OutGrow/static/media/rightbtn.3e3c3a011cb5a5841936.png",
+    "static/media/Logo.png": "/OutGrow/static/media/Logo.e3244d9aff3481acb303.png",
+    "static/media/facebook.png": "/OutGrow/static/media/facebook.71815e7fb17e6a532192.png",
+    "index.html": "/OutGrow/index.html",
+    "main.7d7a2da6.css.map": "/OutGrow/static/css/main.7d7a2da6.css.map",
+    "main.4a0a70e2.js.map": "/OutGrow/static/js/main.4a0a70e2.js.map",
+    "787.6442c38c.chunk.js.map": "/OutGrow/static/js/787.6442c38c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d7a2da6.css",
+    "static/js/main.4a0a70e2.js"
+  ]
+}
