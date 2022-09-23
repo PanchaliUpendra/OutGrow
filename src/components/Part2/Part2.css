@@ -1,0 +1,27 @@
+.Part2_container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.Part2-each-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.Part2-images{
+    width: 175px;
+    height: 75.78px;
+    border:2px solid gray;
+    border-style: hidden solid hidden hidden;
+    padding:40px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.part2-state-frame{
+    width: 175px;
+    height: 75.78px;
+    padding:40px;
+    padding-top:0;
+    padding-bottom: 0;
+}

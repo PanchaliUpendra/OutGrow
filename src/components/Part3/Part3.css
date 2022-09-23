@@ -1,0 +1,54 @@
+.Part3_img1{
+    width:500px;
+    height:350px;
+}
+.Part3_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.Part3_boxes{
+    display: flex;
+    flex-direction: row;
+    background: linear-gradient(120.37deg, rgba(254, 251, 251, 0.6) 0%, rgba(255, 239, 239, 0.1) 100%);
+border: 1px solid #EFEFEF;
+justify-content: center;
+border-radius: 5px;
+}
+.Part3_boxes_each1{
+    padding:40px;
+    border: 2px solid #FB5F66;
+    border-style: hidden solid hidden hidden;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin:2%;
+    text-align: center;
+    padding-left: 0;
+}
+.Part3_boxes_each2{
+    padding:50px;
+    border: 2px solid #FB5F66;
+    border-style: hidden solid hidden hidden;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin:2%;
+    text-align: center;
+
+}
+.Part3_boxes_each3{
+    padding:40px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin:2%;
+    text-align: center;
+    padding-right: 0;
+}
+.Part3_boxes_data{
+    font-weight: bolder;
+    font-size: 24px;
+    color: #FB5F66;
+}

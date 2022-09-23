@@ -1,0 +1,57 @@
+.outgrow_navbar{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.Navbar_logo_img{
+    width: 31px;
+    height:31px;
+    padding-top: 30px;
+}
+.Navbar_logo{
+    display: flex;
+    flex-direction: row;
+}
+.Navbar_logo_ul{
+    display: flex;
+    flex-direction: row;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+.Navbar_logo_ul li{
+    margin:5%;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    transition: 0.5s;
+}
+.Navbar_logo_ul li:hover{
+    color:#FB5F66;
+}
+.Navbar_logo_btns{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    padding-left: 250px;
+}
+.Navbar_logo_btns p{
+    border:2px solid #FB5F66;
+    padding:70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.Navbar_logo_btns p:hover{
+    background-color: #FB5F66;
+    color: white;
+    border:none;
+}
+.Navbar_logo_login{
+    background-color: #FB5F66;
+    color: white;
+}
